@@ -40,14 +40,14 @@ end
 
 class Member < Scraped::HTML
   GROUPS = {
-  }
+  }.freeze
 
   def vacant?
     tds[1].text.tidy == 'Vacant'
   end
 
   field :item do
-    name_link.attr('wikidata') rescue binding.pry
+    name_link.attr('wikidata')
   end
 
   field :name do

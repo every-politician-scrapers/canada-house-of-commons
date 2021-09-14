@@ -8,11 +8,11 @@ official = CSV.table('data/official-raw.csv')
 
 data = official.map do |row|
   {
-    name: row.values_at(:first_name, :last_name).join(' '),
+    name:         row.values_at(:first_name, :last_name).join(' '),
     constituency: row[:constituency],
-    party: row[:political_affiliation],
-    start_date: row[:start_date].to_s.split(' ').first,
-    end_date: row[:end_date].to_s.split(' ').first,
+    party:        row[:political_affiliation],
+    start_date:   row[:start_date].to_s.split(' ').first,
+    end_date:     row[:end_date].to_s.split(' ').first,
   }
 end
 

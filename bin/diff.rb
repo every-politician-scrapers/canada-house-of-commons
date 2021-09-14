@@ -3,17 +3,25 @@
 
 require 'every_politician_scraper/comparison'
 
+REMAP = {
+  party:        {
+    'Conservative Party of Canada' => 'Conservative',
+    'Green Party of Canada'        => 'Green Party',
+    'Liberal Party of Canada'      => 'Liberal',
+    'New Democratic Party'         => 'NDP',
+    'independent politician'       => 'Independent',
+  },
+  constituency: {
+    'Rosemont–La Petite-Patrie' => 'Rosemont—La Petite-Patrie',
+  },
+}.freeze
+
+CSV::Converters[:remap] = ->(val, field) { (REMAP[field.header] || {}).fetch(val, val) }
+
 # Standardise data
 class Comparison < EveryPoliticianScraper::Comparison
-  REMAP = {
-    'Conservative Party of Canada' => 'Conservative',
-    'Liberal Party of Canada' => 'Liberal',
-    'New Democratic Party' => 'NDP',
-    'independent politician' => 'Independent',
-  }.freeze
-
   def wikidata_csv_options
-    { converters: [->(val) { REMAP.fetch(val, val) }] }
+    { converters: [:remap] }
   end
 end
 
