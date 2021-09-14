@@ -1,16 +1,49 @@
 item,name,group,party,district,constituency,gender,dob,dobPrecision,psid
+Q100937829,Ya'ara Saks,Q138345,Liberal Party of Canada,Q3572587,York Centre,female,1973-01-01T00:00:00Z,9,Q100937829-692b22fe-4d0f-da70-0723-71c0b68d2204
 Q16211070,Ahmed Hussen,Q138345,Liberal Party of Canada,Q3572599,York South—Weston,male,1976-01-01T00:00:00Z,9,Q16211070-a60083ca-4a9f-1c98-952e-df81628bee32
 Q21335996,Catherine McKenna,Q138345,Liberal Party of Canada,Q3357743,Ottawa Centre,female,1971-08-05T00:00:00Z,11,Q21335996-05CFEB18-0648-46C3-9A0F-45836D52AA43
 Q21336208,Marco Mendicino,Q138345,Liberal Party of Canada,Q3049206,Eglinton—Lawrence,male,1973-07-28T00:00:00Z,11,Q21336208-86bbd002-4f57-9735-21f4-fb5a0c09b49d
 Q21714336,Ginette Petitpas Taylor,Q138345,Liberal Party of Canada,Q3320478,Moncton—Riverview—Dieppe,female,1965-01-01T00:00:00Z,8,Q21714336-c23956e4-47d0-d632-88d4-ee28d356f2d1
 Q22005483,Gudie Hutchings,Q138345,Liberal Party of Canada,Q16990299,Long Range Mountains,female,1959-09-01T00:00:00Z,11,Q22005483-15CFF83A-0E00-4D71-BD3D-98201B445833
+Q22006190,Patricia Lattanzio,,,,,female,,,Q22006190-c1d3298e-4b14-2dd6-7bd2-6d67df1d2a77
+Q2830317,Alain Therrien,,,Q3217787,La Prairie,male,1966-07-06T00:00:00Z,11,Q2830317-e37774d7-4c04-8d25-c069-82bb37d914c0
 Q2852943,Anthony Rota,Q138345,Liberal Party of Canada,Q3342105,Nipissing—Timiskaming,male,1961-05-15T00:00:00Z,11,Q2852943-eb6086c6-4504-9c0d-e46d-ddadc8ead873
+Q3022947,Denis Trudel,,,,,male,1963-07-18T00:00:00Z,11,Q3022947-0637ab25-4f11-b304-b1df-8e6633f04454
+Q30302772,Simon-Pierre Savard-Tremblay,,,,,male,1988-05-01T00:00:00Z,10,Q30302772-af82b461-4f91-7634-6825-bdc17ea5375d
+Q3263709,Louise Chabot,,,,,female,1955-01-01T00:00:00Z,9,Q3263709-3b5842fe-4bc9-e6d3-c01b-bb3660c54d20
 Q3308109,Michael Chong,Q488523,Conservative Party of Canada,Q3567185,Wellington—Halton Hills,male,1971-11-22T00:00:00Z,11,Q3308109-6a0f3bd6-42d6-6196-f3cb-e603c981c3bd
+Q3499230,Steven Guilbeault,,,,,male,1970-06-09T00:00:00Z,11,Q3499230-92d1401c-4944-1994-e2c6-c57ee13f4eab
 Q3528703,Tim Uppal,,,Q16974434,Edmonton Mill Woods,male,1974-11-14T00:00:00Z,11,Q3528703-3d9d950e-4c45-36fb-3eed-57175c33b5e5
+Q3573412,Yves-François Blanchet,,,,,male,1965-04-16T00:00:00Z,11,Q3573412-40ffa787-4193-7dde-04ab-730801d7ce2d
 Q4492815,Chrystia Freeland,Q138345,Liberal Party of Canada,Q16977089,University—Rosedale,female,1968-08-02T00:00:00Z,11,Q4492815-AFAD7A69-720F-4B4F-88FD-03DD3082C5D3
+Q460720,Lyne Bessette,,,,,female,1975-03-10T00:00:00Z,11,Q460720-072e4a54-f2c8-4ac1-bc89-1fd03600e5ad
+Q6122681,Jagmeet Singh,,,Q16966970,Burnaby South,male,1979-01-02T00:00:00Z,11,Q6122681-56c8459c-4241-b49f-79dc-0896f3daa0b2
+Q61881929,Scot Davidson,,,,,male,1990-01-01T00:00:00Z,9,Q61881929-84b1b021-4d26-bded-f1be-d9c44ca23a7d
+Q71920855,Heather McPherson,Q130765,New Democratic Party,Q3048071,Edmonton Strathcona,female,1972-05-09T00:00:00Z,11,Q71920855-0f954372-49ec-32e7-e538-edaa7ad07d9d
+Q71920975,Richard Lehoux,,,,,male,1956-01-01T00:00:00Z,9,Q71920975-9b8156fd-4bda-d567-5940-21947210fdeb
+Q71921009,Jenica Atwin,,,,,female,1987-01-10T00:00:00Z,11,Q71921009-d22af487-4e4d-7b82-54d8-f9364f90dd3e
+Q71929780,Ryan Turnbull,Q138345,Liberal Party of Canada,Q16967060,Whitby,male,1977-07-15T00:00:00Z,11,Q71929780-65f859d9-4f40-96d0-4442-344764bfef80
+Q71929797,Marcus Powlowski,Q138345,Liberal Party of Canada,Q3526042,Thunder Bay—Rainy River,male,1960-01-20T00:00:00Z,11,Q71929797-c145d421-46e6-6b02-9eea-0b393bc09401
 Q71929849,Derek Sloan,,,Q16979735,Hastings—Lennox and Addington,male,1984-11-11T00:00:00Z,11,Q71929849-8f7db218-4233-c528-1c32-1331878b795a
 Q71936994,Taylor Bachrach,,,Q3486212,Skeena—Bulkley Valley,male,,,Q71936994-7f276bb2-4f41-043f-97a2-d6ac58a5022c
+Q71942357,Lindsay Mathyssen,Q130765,New Democratic Party,Q3258986,London—Fanshawe,female,,,Q71942357-33dfb4e3-46c1-0c35-f290-faf486df7b61
 Q71942614,Mumilaaq Qaqqaq,Q130765,New Democratic Party,Q584337,Nunavut,female,1993-11-04T00:00:00Z,11,Q71942614-ea0871e9-ae87-4ae6-a5ee-e2d35d22cfde
+Q71973951,Kristina Michaud,,,,,female,1993-02-01T00:00:00Z,11,Q71973951-0bbdeb3c-4efc-6766-1bd9-6369f03d0543
 Q71991319,Julie Vignola,Q735105,Bloc Québécois,Q2893257,Beauport—Limoilou,female,1950-01-01T00:00:00Z,7,Q71991319-9a4da408-4826-3bd2-7435-41ce1b13da9c
+Q72012003,Sameer Zuberi,,,,,male,,,Q72012003-04bb9069-4dee-fb14-0a2e-5ef7f050c439
+Q72012015,Soraya Martinez Ferrada,,,,,female,,,Q72012015-6dd76377-4049-6de7-2ec4-e3fa15a50787
 Q72012050,Annie Koutrakis,Q138345,Liberal Party of Canada,Q16978570,Vimy,female,,,Q72012050-dc2d01b8-45cd-e8d6-b12f-396b02480ac3
 Q72012105,Élisabeth Brière,Q138345,Liberal Party of Canada,Q3481910,Sherbrooke,female,1968-01-01T00:00:00Z,9,Q72012105-9bd57a86-4027-cafe-1582-be4574a4192e
+Q72012161,Andréanne Larouche,,,,,female,1982-01-01T00:00:00Z,9,Q72012161-b4235b90-4d24-0db5-b1e7-191734571d7f
+Q72091608,Caroline Desbiens,,,,,female,1963-01-01T00:00:00Z,9,Q72091608-71075d39-4d11-5c74-2f9d-731b08770f2c
+Q72093411,Sylvie Bérubé,,,,,female,1950-01-01T00:00:00Z,7,Q72093411-b040fed6-4203-c305-084e-d1461489ff62
+Q72177965,Sébastien Lemire,,,,,male,1950-01-01T00:00:00Z,7,Q72177965-29f5f46f-47fc-f7ef-33cf-c9325b6c5b51
+Q72194331,Alexis Brunelle-Duceppe,,,Q3214650,Lac-Saint-Jean,male,1979-07-01T00:00:00Z,11,Q72194331-dc6170c4-4931-6dde-70bf-401eb04bd35e
+Q72219274,Christine Normandin,,,,,female,,,Q72219274-4943ff9f-46ac-56eb-200d-057d2bc1efe5
+Q72219386,Luc Desilets,,,,,male,1958-02-09T00:00:00Z,11,Q72219386-64b10119-4c3a-0910-bb5f-b700b7574876
+Q72219402,Mario Simard,,,,,male,,,Q72219402-7cd23b8f-48a2-3db2-4930-2f8f7ed4232b
+Q72219413,Martin Champoux,,,,,male,1968-01-01T00:00:00Z,9,Q72219413-5bdafc68-4a2a-c9b2-c050-e120a724c708
+Q72219417,Maxime Blanchette-Joncas,,,,,male,1989-08-15T00:00:00Z,11,Q72219417-88bdc5ea-4b51-6f34-b0d0-13baeb129fe3
+Q72219699,Louise Charbonneau,,,,,female,,,Q72219699-a2ff3a6a-4ec7-876a-bceb-a791a8152753
+Q72219707,Marie-Hélène Gaudreau,,,,,female,1977-01-01T00:00:00Z,9,Q72219707-63ac66f9-4cc9-25f7-7520-6c6f3fef4b24
+Q72219741,Yves Perron,,,,,male,,,Q72219741-d3cc1cad-4e00-1324-ed7b-0e60b51fdf6d
