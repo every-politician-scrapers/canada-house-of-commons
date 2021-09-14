@@ -9,6 +9,7 @@ class Comparison < EveryPoliticianScraper::Comparison
     'Conservative Party of Canada' => 'Conservative',
     'Liberal Party of Canada' => 'Liberal',
     'New Democratic Party' => 'NDP',
+    'independent politician' => 'Independent',
   }.freeze
 
   def wikidata_csv_options
