@@ -8,7 +8,7 @@ module.exports = function () {
     WHERE
     {
       ?item p:P39 ?statement .
-      ?statement ps:P39 wd:${meta.legislature.member} ; pq:P2937 wd:Q72127378 .
+      ?statement ps:P39 wd:${meta.legislature.member} ; pq:P2937 wd:Q108651352 .
 
       OPTIONAL { ?statement pq:P4100 ?group }
       OPTIONAL { ?statement pq:P768 ?district }
