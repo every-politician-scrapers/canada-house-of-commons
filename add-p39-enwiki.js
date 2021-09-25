@@ -11,7 +11,7 @@ module.exports = (id, party, constituency) => {
 
   source = {
     P143:  'Q328',
-    P4656: 'https://en.wikipedia.org/w/index.php?title=List_of_House_members_of_the_43rd_Parliament_of_Canada&oldid=1042394684',
+    P4656: 'https://en.wikipedia.org/wiki/List_of_House_members_of_the_44th_Parliament_of_Canada',
     P813:  new Date().toISOString().split('T')[0],
   }
 
