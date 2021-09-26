@@ -11,8 +11,8 @@ Q3311457,Michelle Rempel Garner,Q488523,Conservative,Q2933912,Calgary Nose Hill
 Q22278561,Pat Kelly,Q488523,Conservative,Q16850493,Calgary Rocky Ridge
 Q22278649,Tom Kmiec,Q488523,Conservative,Q16850498,Calgary Shepard
 Q7364077,Ron Liepert,Q488523,Conservative,Q16954913,Calgary Signal Hill
-"",George Chahal,Q138345,Liberal,Q16850507,Calgary Skyview
-Q21572842,Randy Boissonault,Q138345,Liberal,Q3048042,Edmonton Centre
+Q55122163,George Chahal,Q138345,Liberal,Q16850507,Calgary Skyview
+Q21572842,Randy Boissonnault,Q138345,Liberal,Q3048042,Edmonton Centre
 Q108628440,Blake Desjarlais,Q130765,New Democratic,Q16966780,Edmonton Griesbach
 Q22002979,Ziad Aboultaif,Q488523,Conservative,Q16966789,Edmonton Manning
 Q3528703,Tim Uppal,Q488523,Conservative,Q16974434,Edmonton Mill Woods
@@ -51,6 +51,7 @@ Q71936974,Tracy Gray,Q488523,Conservative,Q3194929,Kelowna—Lake Country
 Q71936954,Rob Morrison,Q488523,Conservative,Q3198835,Kootenay—Columbia
 Q105490025,Tako van Popta,Q488523,Conservative,Q16999141,Langley—Aldergrove
 Q71942395,Brad Vis,Q488523,Conservative,Q16999752,Mission—Matsqui—Fraser Canyon
+Q108686167,Lisa Marie Barron,Q130765,New Democratic,Q16979413,Nanaimo—Ladysmith
 Q3376681,Peter Julian,Q130765,New Democratic,Q681292,New Westminster—Burnaby
 Q21572837,Rachel Blaney,Q130765,New Democratic,Q3344130,North Island—Powell River
 Q22003182,Mel Arnold,Q488523,Conservative,Q512649,North Okanagan—Shuswap
@@ -68,7 +69,7 @@ Q22280309,Randeep Sarai,Q138345,Liberal,Q16977199,Surrey Centre
 Q3503377,Sukh Dhaliwal,Q138345,Liberal,Q16979255,Surrey—Newton
 Q3129348,Hedy Fry,Q138345,Liberal,Q3554460,Vancouver Centre
 Q6179373,Jenny Kwan,Q130765,New Democratic,Q958124,Vancouver East
-"",Taleeb Noormohamed,Q138345,Liberal,Q17101508,Vancouver Granville
+Q7679141,Taleeb Noormohamed,Q138345,Liberal,Q17101508,Vancouver Granville
 Q3035763,Don Davies,Q130765,New Democratic,Q3554467,Vancouver Kingsway
 Q3187235,Joyce Murray,Q138345,Liberal,Q3554466,Vancouver Quadra
 Q21336246,Harjit Sajjan,Q138345,Liberal,Q3554462,Vancouver South
@@ -100,14 +101,14 @@ Q21714343,Wayne Long,Q138345,Liberal,Q16979314,Saint John—Rothesay
 Q71894607,Richard Bragdon,Q488523,Conservative,Q614586,Tobique—Mactaquac
 Q21066146,Ken McDonald,Q138345,Liberal,Q2873260,Avalon
 Q45311068,Churence Rogers,Q138345,Liberal,Q16844235,Bonavista—Burin—Trinity
-"",Clifford Small,Q488523,Conservative,Q16949517,Coast of Bays—Central—Notre Dame
+Q108687511,Clifford Small,Q488523,Conservative,Q16949517,Coast of Bays—Central—Notre Dame
 Q8062466,Yvonne Jones,Q138345,Liberal,Q3214536,Labrador
 Q22005483,Gudie Hutchings,Q138345,Liberal,Q16990299,Long Range Mountains
-"",Joanne Thompson,Q138345,Liberal,Q3495268,St. John's East
+Q108687503,Joanne Thompson,Q138345,Liberal,Q3495268,St. John's East
 Q7440780,Seamus O'Regan,Q138345,Liberal,Q3495269,St. John's South—Mount Pearl
 Q71930000,Mike Kelloway,Q138345,Liberal,Q2937241,Cape Breton—Canso
 Q21642492,Sean Fraser,Q138345,Liberal,Q3345304,Central Nova
-"",Stephen Ellis,Q488523,Conservative,Q3007524,Cumberland—Colchester
+Q108687492,Stephen Ellis,Q488523,Conservative,Q3007524,Cumberland—Colchester
 Q22004363,Darren Fisher,Q138345,Liberal,Q3016601,Dartmouth—Cole Harbour
 Q21174009,Andy Fillmore,Q138345,Liberal,Q2604650,Halifax
 Q15296602,Lena Diab,Q138345,Liberal,Q3125968,Halifax West
@@ -121,9 +122,9 @@ Q16192760,Carol Hughes,Q130765,New Democratic,Q2835750,Algoma—Manitoulin—Kap
 Q108655429,Leah Taylor Roy,Q138345,Liberal,Q16949447,Aurora—Oak Ridges—Richmond Hill
 Q22003456,John Brassard,Q488523,Conservative,Q16950434,Barrie—Innisfil
 Q71929954,Doug Shipley,Q488523,Conservative,Q16950439,Barrie—Springwater—Oro-Medonte
-"",Ryan Williams,Q488523,Conservative,Q16950737,Bay of Quinte
+Q108687472,Ryan Williams,Q488523,Conservative,Q16950737,Bay of Quinte
 Q20676568,Nathaniel Erskine-Smith,Q138345,Liberal,Q2892787,Beaches—East York
-"",Shafqat Ali,Q138345,Liberal,Q2923648,Brampton Centre
+Q108687462,Shafqat Ali,Q138345,Liberal,Q2923648,Brampton Centre
 Q71942473,Maninder Sidhu,Q138345,Liberal,Q16953382,Brampton East
 Q22096924,Ruby Sahota,Q138345,Liberal,Q16953394,Brampton North
 Q22770988,Sonia Sidhu,Q138345,Liberal,Q16966835,Brampton South
@@ -152,7 +153,7 @@ Q22278896,Lloyd Longfield,Q138345,Liberal,Q3118872,Guelph
 Q94691482,Leslyn Lewis,Q488523,Conservative,Q5641291,Haldimand—Norfolk
 Q22280358,Jamie Schmale,Q488523,Conservative,Q3125962,Haliburton—Kawartha Lakes—Brock
 Q85784352,Matthew Green,Q130765,New Democratic,Q3126446,Hamilton Centre
-"",Chad Collins,Q138345,Liberal,Q3126448,Hamilton East—Stoney Creek
+Q108687453,Chad Collins,Q138345,Liberal,Q3126448,Hamilton East—Stoney Creek
 Q108659139,Lisa Hepfner,Q138345,Liberal,Q3126460,Hamilton Mountain
 Q22770985,Filomena Tassi,Q138345,Liberal,Q16979665,Hamilton West—Ancaster—Dundas
 Q108650405,Shelby Kramp-Neuman,Q488523,Conservative,Q16979735,Hastings—Lennox and Addington
@@ -160,7 +161,7 @@ Q3188045,Judy Sgro,Q138345,Liberal,Q3572594,Humber River—Black Creek
 Q2895501,Ben Lobb,Q488523,Conservative,Q290779,Huron—Bruce
 Q59240247,Jenna Sudds,Q138345,Liberal,Q17088451,Kanata—Carleton
 Q71937041,Eric Melillo,Q488523,Conservative,Q3195247,Kenora
-"",Anna Roberts,Q488523,Conservative,Q16977204,King—Vaughan
+Q108687444,Anna Roberts,Q488523,Conservative,Q16977204,King—Vaughan
 Q16215273,Mark Gerretsen,Q138345,Liberal,Q3197139,Kingston and the Islands
 Q108619065,Mike Morrice,Q691730,Green,Q3197575,Kitchener Centre
 Q73210893,Tim Louis,Q138345,Liberal,Q3197577,Kitchener—Conestoga
@@ -173,7 +174,7 @@ Q21642488,Peter Fragiskatos,Q138345,Liberal,Q3258929,London North Centre
 Q108628484,Arielle Kayabaga,Q138345,Liberal,Q3258933,London West
 Q5703595,Helena Jaczek,Q138345,Liberal,Q16977352,Markham—Stouffville
 Q29139548,Mary Ng,Q138345,Liberal,Q16977883,Markham—Thornhill
-Q5100973,Paul Chiang,Q138345,Liberal,Q3294346,Markham—Unionville
+"",Paul Chiang,Q138345,Liberal,Q3294346,Markham—Unionville
 Q81496,Adam van Koeverden,Q138345,Liberal,Q16969295,Milton
 Q3351821,Omar Alghabra,Q138345,Liberal,Q975611,Mississauga Centre
 Q7174026,Peter Fonseca,Q138345,Liberal,Q3316906,Mississauga East—Cooksville
@@ -215,7 +216,7 @@ Q22277334,Shaun Chen,Q138345,Liberal,Q16976145,Scarborough North
 Q21160212,Gary Anandasangaree,Q138345,Liberal,Q16979633,Scarborough—Rouge Park
 Q4908168,Bill Blair,Q138345,Liberal,Q3475165,Scarborough Southwest
 Q71929888,Terry Dowdall,Q488523,Conservative,Q3484122,Simcoe—Grey
-"",Adam Chambers,Q488523,Conservative,Q3484116,Simcoe North
+Q108687439,Adam Chambers,Q488523,Conservative,Q3484116,Simcoe North
 Q108635638,Kevin Vuong,Q327591,Independent,Q16976871,Spadina—Fort York
 Q71937055,Eric Duncan,Q488523,Conservative,Q3499856,Stormont—Dundas—South Glengarry
 Q108628500,Viviane Lapointe,Q138345,Liberal,Q3502922,Sudbury
@@ -315,7 +316,7 @@ Q72012161,Andréanne Larouche,Q735105,Bloc Québécois,Q3481722,Shefford
 Q72012105,Élisabeth Brière,Q138345,Liberal,Q3481910,Sherbrooke
 Q108650880,Nathalie Sinclair-Desgagné,Q735105,Bloc Québécois,Q25246025,Terrebonne
 Q3263709,Louise Chabot,Q735105,Bloc Québécois,Q16842973,Thérèse-De Blainville
-"",René Villemure,Q735105,Bloc Québécois,Q3539914,Trois-Rivières
+Q108687420,René Villemure,Q735105,Bloc Québécois,Q3539914,Trois-Rivières
 Q22121196,Peter Schiefke,Q138345,Liberal,Q3555066,Vaudreuil—Soulanges
 Q22279214,Marc Miller,Q138345,Liberal,Q16977201,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs
 Q72012050,Annie Koutrakis,Q138345,Liberal,Q16978570,Vimy

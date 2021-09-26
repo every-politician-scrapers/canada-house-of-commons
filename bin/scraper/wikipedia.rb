@@ -8,7 +8,7 @@ require 'wikidata_ids_decorator'
 
 require_relative './../../lib/unspan_all_tables'
 
-require 'open-uri/cached'
+# require 'open-uri/cached'
 
 class RemoveReferences < Scraped::Response::Decorator
   def body
