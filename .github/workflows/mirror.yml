@@ -3,6 +3,7 @@ name: Mirror official site
 on:
   schedule:
     - cron:  '14 1 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:
@@ -17,7 +18,7 @@ jobs:
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add html
+        git add data
         timestamp=$(date -u)
-        git commit -m "Update html: ${timestamp}" || exit 0
+        git commit -m "Update official data: ${timestamp}" || exit 0
         git push
