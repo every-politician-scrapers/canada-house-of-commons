@@ -40,6 +40,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 39,Q2816456,39th Canadian Parliament,,,2006-04-03,11,,,2008-09-07,11,,,,,Q2816426,38th Canadian Parliament,Q2816734,40th Canadian Parliament
 40,Q2816734,40th Canadian Parliament,,,2008-11-18,11,,,2011-03-26,11,,,,,Q2816456,39th Canadian Parliament,Q2816776,41st Canadian Parliament
 41,Q2816776,41st Canadian Parliament,2011-01-01,9,2011-06-02,11,,,2015-08-02,11,,,,,Q2816734,40th Canadian Parliament,Q21157957,42nd Canadian Parliament
-42,Q21157957,42nd Canadian Parliament,,,2015-12-03,11,,,,,,,,,Q2816776,41st Canadian Parliament,Q72127378,43rd Canadian Parliament
+42,Q21157957,42nd Canadian Parliament,,,2015-12-03,11,,,2019-09-11,11,,,,,Q2816776,41st Canadian Parliament,Q72127378,43rd Canadian Parliament
 43,Q72127378,43rd Canadian Parliament,,,2019-12-05,11,,,2021-08-15,11,,,,,Q21157957,42nd Canadian Parliament,Q108651352,44th Canadian Parliament
 44,Q108651352,44th Canadian Parliament,,,,,,,,,,,,,Q72127378,43rd Canadian Parliament,,
